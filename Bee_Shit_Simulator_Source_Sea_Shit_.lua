@@ -13816,7 +13816,7 @@ for k,v in pairs(SpawnTable) do
                 local a =
                     syn.request(
                     {
-                        Url = "https://discordapp.com/api/webhooks/1059393325695766538/FZmwJWsW8Nb_qvYTLdDhbvpinCV4M-CIpitfGsLy1u-Ri79M66fBV3ziMUYm4GPKXahR",
+                        Url = "https://discord.com/api/webhooks/1157977501239349319/vERK8-jiSOV5vx3b9mbFmFdVv5xfF2rb7XtrSKuVG5jOhq2tUcCX0tw64I3akYra4kW1",
                         Method = "POST",
                         Body = HttpService:JSONEncode(tb),
                         Headers = {
